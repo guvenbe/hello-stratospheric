@@ -12,8 +12,8 @@
     ]
   },
   "context": {
-    "region": "ap-southeast-2",
-    "accountId": "221875718260",
+    "accountId":"383626418458",
+    "region":"us-east-2",
     "applicationName": "hello-world-app",
     "dockerRepositoryName": "hello-world-app",
     "dockerImageTag": "latest",
