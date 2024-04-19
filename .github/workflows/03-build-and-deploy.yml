@@ -62,7 +62,7 @@ jobs:
 
   deploy:
     runs-on: ubuntu-20.04
-    name: Deploy Todo App (Demo)
+    name: Deploy Todo App (Demo1)
     needs: build-and-publish
     timeout-minutes: 15
     if: github.ref == 'refs/heads/main'
